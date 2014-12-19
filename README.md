@@ -10,3 +10,4 @@ Projects List
 * Tip Calculator
 * Date and time
 * PygLatin
+* Taking Vacation
