@@ -8,6 +8,7 @@ DONT USE THIS REPO IF YOU WANT TO LEARN PYTHON BUT FOR HELP IF STUCK, THE HINT S
 Projects List
 =============
 * Tip Calculator
-* Date and time
+* Date and Time
 * PygLatin
 * Taking Vacation
+* A Day at the Supermarket
